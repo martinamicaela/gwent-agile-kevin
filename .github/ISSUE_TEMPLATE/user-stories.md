@@ -1,8 +1,8 @@
 ---
 name: USER STORIES
-about: USER STORIES
+about: User story for project
 title: "[USER-STORY] Story"
-labels: ''
+labels: user story
 assignees: ''
 
 ---
